@@ -1,0 +1,13 @@
+SARATHI AI — START HERE
+
+1. Install Node.js 20+.
+2. In Terminal, cd into this extracted sarathi-ai folder.
+3. Run: npm run install:all
+4. Run: cp backend/.env.example backend/.env
+5. Run: npm run dev
+6. Open http://localhost:5173
+7. Check backend at http://localhost:5000/api/health
+
+LOCAL DEMO LOGIN: enter any non-empty email/username and any non-empty password.
+DEMO_AUTH=true is permissive and is only for local demonstration, not public deployment.
+If the browser shows ERR_CONNECTION_REFUSED on port 5000, the backend did not start; inspect the terminal where npm run dev is running for the first error.

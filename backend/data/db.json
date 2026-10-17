@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": "dc753192-1fe7-48f3-8b1c-049253d7c682",
+      "name": "vikas.test2026",
+      "email": "vikas.test2026@gmail.com",
+      "password": "c6b671b9d133efa1431e0a0b4ebaead1a66c6ecac830a3c94ec3c3f1910662d9",
+      "createdAt": "2026-10-17T19:26:42.051Z",
+      "demoAccount": true
+    }
+  ],
+  "profiles": {
+    "dc753192-1fe7-48f3-8b1c-049253d7c682": {
+      "ownerName": "vikas.test2026"
+    }
+  },
+  "chats": {
+    "dc753192-1fe7-48f3-8b1c-049253d7c682": []
+  },
+  "reports": []
+}
